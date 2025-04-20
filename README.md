@@ -1,28 +1,12 @@
-# 🎛 React Rotary Knob (React v18.2+)
+# 🎛 React Rotary Knob (React v19)
 
 ## Installation
 
 ```bash
-npm install react-rotary-knob@latest
+npm install react-rotary-knob-react19
 ```
 ## Demos
 
-[Demo](https://hugozap.github.io/react-rotary-knob/storybook)
-
-[CodeSandbox basic example (uncontrolled)](https://codesandbox.io/s/xo0z2kkqq)
-
-[CodeSandbox custom skin pack](https://codesandbox.io/s/6w9vqn0x3w)
-
-💙  [Get the new skin pack (18 skin set)](https://github.com/hugozap/react-rotary-knob-skin-pack)
-
-## Features
-
-- Precise mode: Doesn't jump on dragging (Increase drag distance for more precision)
-- Works in both controlled (recommended) and uncontrolled mode.
-- Support arrow keys.
-- **Supports custom skins**
-
-<a href="https://github.com/hugozap/react-svgmt"> <img src="builtwith-svgmt.png"> </a>
 
 
 ## Precision mode
